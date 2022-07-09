@@ -1,0 +1,24 @@
+[submodule "Catppuccin-blue"]
+	path = Catppuccin-blue
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-blue
+[submodule "Catppuccin-orange"]
+	path = Catppuccin-orange
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-orange
+[submodule "Catppuccin-yellow"]
+	path = Catppuccin-yellow
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-yellow
+[submodule "Catppuccin-purple"]
+	path = Catppuccin-purple
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-purple
+[submodule "Catppuccin-pink"]
+	path = Catppuccin-pink
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-pink
+[submodule "Catppuccin-teal"]
+	path = Catppuccin-teal
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-teal
+[submodule "Catppuccin-red"]
+	path = Catppuccin-red
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-red
+[submodule "Catppuccin-green"]
+	path = Catppuccin-green
+	url = github:flathub/org.gtk.Gtk3theme.Catppuccin-green
