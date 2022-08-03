@@ -4,6 +4,8 @@ THEME_NAME_BASE="Catppuccin-"
 
 GIT_TAG="v-0.2.5"
 
+MAINTAINER_FLATHUB="github:Scrumplex/flathub.git"
+
 VARIANTS=(
     Mocha
     Mocha-Green
