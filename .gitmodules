@@ -1,0 +1,57 @@
+[submodule "Catppuccin-Mocha"]
+	path = Catppuccin-Mocha
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha.git
+[submodule "Catppuccin-Mocha-Green"]
+	path = Catppuccin-Mocha-Green
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Green.git
+[submodule "Catppuccin-Mocha-Lavender"]
+	path = Catppuccin-Mocha-Lavender
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Lavender.git
+[submodule "Catppuccin-Mocha-Mauve"]
+	path = Catppuccin-Mocha-Mauve
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Mauve.git
+[submodule "Catppuccin-Mocha-Peach"]
+	path = Catppuccin-Mocha-Peach
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Peach.git
+[submodule "Catppuccin-Mocha-Pink"]
+	path = Catppuccin-Mocha-Pink
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Pink.git
+[submodule "Catppuccin-Mocha-Red"]
+	path = Catppuccin-Mocha-Red
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Red.git
+[submodule "Catppuccin-Mocha-Teal"]
+	path = Catppuccin-Mocha-Teal
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Teal.git
+[submodule "Catppuccin-Mocha-Yellow"]
+	path = Catppuccin-Mocha-Yellow
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Yellow.git
+[submodule "Catppuccin-Latte"]
+	path = Catppuccin-Latte
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte.git
+[submodule "Catppuccin-Latte-Green"]
+	path = Catppuccin-Latte-Green
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Green.git
+[submodule "Catppuccin-Latte-Grey"]
+	path = Catppuccin-Latte-Grey
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Grey.git
+[submodule "Catppuccin-Latte-Lavender"]
+	path = Catppuccin-Latte-Lavender
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Lavender.git
+[submodule "Catppuccin-Latte-Mauve"]
+	path = Catppuccin-Latte-Mauve
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Mauve.git
+[submodule "Catppuccin-Latte-Peach"]
+	path = Catppuccin-Latte-Peach
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Peach.git
+[submodule "Catppuccin-Latte-Pink"]
+	path = Catppuccin-Latte-Pink
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Pink.git
+[submodule "Catppuccin-Latte-Red"]
+	path = Catppuccin-Latte-Red
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Red.git
+[submodule "Catppuccin-Latte-Teal"]
+	path = Catppuccin-Latte-Teal
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Teal.git
+[submodule "Catppuccin-Latte-Yellow"]
+	path = Catppuccin-Latte-Yellow
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Yellow.git
