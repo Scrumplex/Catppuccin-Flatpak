@@ -2,7 +2,7 @@
 COMMON_FILE="data/_common.json"
 THEME_NAME_BASE="Catppuccin-"
 
-GIT_TAG="v-0.2.5"
+GIT_TAG="v-0.2.7"
 
 MAINTAINER_FLATHUB="github:Scrumplex/flathub.git"
 
