@@ -55,3 +55,6 @@
 [submodule "Catppuccin-Latte-Yellow"]
 	path = Catppuccin-Latte-Yellow
 	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Latte-Yellow.git
+[submodule "Catppuccin-Mocha-Grey"]
+	path = Catppuccin-Mocha-Grey
+	url = git@github.com:flathub/org.gtk.Gtk3theme.Catppuccin-Mocha-Grey.git
